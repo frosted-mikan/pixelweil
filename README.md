@@ -1,5 +1,5 @@
 # pixelweil
-[frosted-mikan.github.io/pixelweil/](frosted-mikan.github.io/pixelweil/)
+[frosted-mikan.github.io/pixelweil/](https://frosted-mikan.github.io/pixelweil/)
 
 An Osterweil Co-op House RPG
 
